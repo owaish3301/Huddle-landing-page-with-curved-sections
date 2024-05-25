@@ -216,6 +216,8 @@ nav{
 
 
 .bg-footer-top{
+    position: relative;
+    top: 2px;
     background-image: url("images/bg-footer-top-mobile.svg");
     background-repeat: no-repeat;
     background-size: contain;
