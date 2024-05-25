@@ -1,0 +1,320 @@
+p{
+    margin: 0 !important;
+}
+
+main{
+    padding: 10px;
+}
+nav{
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.logo-container{
+    padding-right: 0 !important;
+}
+
+.title-container{
+    padding-left: 0 !important;
+    font-size: 28px;
+}
+
+#icon-messages{
+    height: 70%;
+    width: 70%;
+}
+
+.try-button{
+    margin-left: auto;
+}
+.try-button button {
+    border-color: hsl(321, 100%, 78%);
+    border-radius: 20px;
+    background-color: white;
+    color: hsl(321, 100%, 78%);
+}
+
+.blank-space{
+    height: 200px;
+}
+
+.card-title{
+    font-size: 32px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    margin-bottom: 30px !important;
+    padding: 0 25px !important;
+}
+
+.card-body{
+    padding: 0 60px !important;
+    margin-bottom: 45px !important;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.button-container{
+    width: max-content;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+#get-started-button, .newsletter-card-bottom button{
+    color: white;
+    background-color: hsl(322, 100%, 66%);
+    border: 0px;
+    padding: 20px 40px;
+    border-radius: 100px;
+}
+
+
+#screen-mockups {
+    width: 85%;
+    margin: 0 7.5%;
+}
+
+.screen-mockup-container{
+    width: 100%;
+    margin-bottom: 120px;
+}
+
+
+#icon-communities, #icon-messages-2{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: -45px;
+}
+
+.communities-info{
+    margin-bottom: 50px;
+}
+
+.big-text {
+    font-size: 48px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.less-opacity{
+    opacity: 0.5;
+}
+
+.top-bg{
+    background-image: url("images/bg-section-top-mobile-1.svg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+    width: 100vw;
+    margin: 0;
+    height: 250px;
+}
+
+.bottom-bg{
+    background-image: url("images/bg-section-bottom-mobile-1.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+    width: 100vw;
+    margin: 0;
+    height: 200px;
+}
+
+.grow-together-card{
+    background-color:  hsl(207, 100%, 98%);
+    height: auto;
+    width: 100vw;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+#illustration-grow-together{
+    width: 80%;
+    margin: 10%;
+    max-width: 250px;
+}
+
+#grow-together-header, #Flowing-conv-header, #your-users-header, #newsletter-header-text{
+    font-family: "Poppins", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    padding: 25px 20px;
+}
+
+#grow-together-body, #Flowing-conv-body, #your-users-body, #newsletter-header-body{
+    padding: 0 20px;
+    margin-bottom: 25px !important;
+}
+
+#illustration-flowing-conversation{
+    width: 80%;
+    margin: 10%;
+}
+
+
+.flowing-conv-container{
+    text-align: center;
+}
+
+.top-bg-2{
+    background-image: url("images/bg-section-top-mobile-2.svg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+    width: 100vw;
+    margin: 0;
+    height: 250px;
+}
+
+.bottom-bg-2{
+    background-image: url("images/bg-section-bottom-mobile-2.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    width: 100vw;
+    margin: 0;
+    height: 200px;
+    margin-bottom: 50px;
+}
+
+#illustration-your-users{
+    width: 80%;
+    margin: 10%;
+    max-width: 250px;
+}
+
+.your-users-container{
+    background-color:hsl(207, 100%, 98%);
+    width: 100vw;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#building-commuinity-text{
+    font-size: 28px;
+    font-family: "Poppins", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    padding: 25px 0;
+}
+
+
+.bg-footer-top{
+    background-image: url("images/bg-footer-top-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+    width: 100vw;
+    margin: 0;
+    height: 200px;
+}
+
+.footer-container{
+    background-color:  hsl(192, 100%, 9%);
+    width: 100vw;
+    text-align: left;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+.newsletter-container{
+    margin-bottom: 80px;
+}
+
+#newsletter-header-text{
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.newsletter-card-bottom input {
+    width: calc(100% - 40px);
+    margin: 10px 20px;
+}
+
+.subscribe-button-container{
+    width: max-content !important;
+    margin-right: 20px;
+}
+
+.newsletter-card-bottom button {
+    border-radius: 10px;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    padding: 15px 30px;
+}
+
+.contact-us-container{
+    padding: 20px !important;
+}
+
+
+.logo-container-bottom{
+    padding-left: 20px !important;
+}
+
+.title-container-bottom{
+    padding-left: 0 !important;
+    font-size: 36px;
+}
+
+.font-awesome-logos-container{
+    padding-left: 12px;
+    padding-top: 40px;
+}
+
+.font-awesome-logos-container i{
+    margin-right: 15px;
+}
+
+@media(min-width:650px){
+    .card-body{
+        width: 55% !important;
+        margin: auto;
+        padding: 0 30px !important;
+    }
+    #screen-mockups {
+        width: 70%;
+        margin: 0 15%;
+        height: 75%;
+    }
+    .top-bg{
+        background-image: url("images/bg-section-top-desktop-1.svg");
+    }
+    .bottom-bg{
+        background-image: url("images/bg-section-bottom-desktop-1.svg");
+    }
+    .grow-together-card, .your-users-container{
+        text-align: left !important;
+    }
+    .top-bg-2{
+        background-image: url("images/bg-section-top-desktop-2.svg");
+    }
+    .bottom-bg-2{
+        background-image:url("images/bg-section-bottom-desktop-2.svg") ;
+    }
+}
